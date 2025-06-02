@@ -25,7 +25,7 @@ Here’s how each part works step-by-step:
 
 ### 🖼 Workflow Diagram
 
-![Workflow Preview](screenshots/gm.png).
+![Workflow Preview](screenshots/gm1.png).
 
 
 ---

@@ -25,9 +25,8 @@ Here’s how each part works step-by-step:
 
 ### 🖼 Workflow Diagram
 
-![Workflow Preview](screenshots/gm.png)
+![Workflow Preview](screenshots/gm.png).
 
-> 📌 To view the image: place this screenshot in a `screenshots/` folder and name it `workflow-preview.png`.
 
 ---
 
